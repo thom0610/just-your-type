@@ -9,10 +9,6 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
 body {
   margin: 0;
   background-color: #363535;
