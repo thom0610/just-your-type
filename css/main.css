@@ -11,6 +11,8 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,4 +21,12 @@ html {
 
 body {
   margin: 0;
+  background-color: #363535;
+  color: #ffffff;
+}
+
+.script {
+  font-family: "Dancing Script", cursive;
+  color: #ca0a64;
+  font-size: 1.75em;
 }
