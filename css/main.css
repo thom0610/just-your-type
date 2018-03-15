@@ -30,3 +30,26 @@ body {
   color: #ca0a64;
   font-size: 1.75em;
 }
+
+@media only screen and (min-width: 38em) {
+
+  .script {
+    color: #f0e165;
+  }
+}
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 2.75em;
+  }
+
+  .box-1 {
+    text-align: left;
+  }
+
+  .audrey {
+    text-align: left;
+  }
+
+
+}
