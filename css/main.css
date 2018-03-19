@@ -13,12 +13,10 @@ body {
   color: #ca0a64;
 }
 
-@media only screen and (min-width: 38em) {
-
-  .script {
-    color: #f0e165;
-  }
-
+.grid {
+  border-style: dotted;
+  color: #fff;
+  border-width: thick;
 }
 
 @media only screen and (min-width: 60em) {
@@ -29,6 +27,7 @@ body {
 
   .audrey {
     text-align: left;
+
   }
 
   .script {
