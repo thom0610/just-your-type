@@ -14,7 +14,7 @@ body {
 }
 
 .grid {
-  border-style: dotted solid;
+  border-style: dotted;
   color: #fff;
   border-width: thick;
 }
