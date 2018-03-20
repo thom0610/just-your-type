@@ -13,7 +13,7 @@ body {
   color: #ca0a64;
 }
 
-.grid {
+.border {
   border-style: dotted;
   color: #fff;
   border-width: thick;
@@ -27,7 +27,6 @@ body {
 
   .audrey {
     text-align: left;
-
   }
 
   .script {
